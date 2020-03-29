@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root version="3.0">
+	<calendar>
+		<base static="true">
+			<dabriel>
+				<name type="string">Time Eternal Calendar</name>
+				<setting type="string">Reckoning</setting>
+				<lunardaycalc type="string">dabriel</lunardaycalc>
+				<lunarweek>
+					<day1 type="string">Sarith</day1>
+					<day2 type="string">Silvron</day2>
+					<day3 type="string">Naima</day3>
+					<day4 type="string">Iadrac</day4>
+					<day5 type="string">Gexor</day5>
+					<day6 type="string">Aowulach</day6>
+					<day7 type="string">Amian</day7>
+					<day8 type="string">Quarris</day8>
+					<day9 type="string">Xaled</day9>
+				</lunarweek>
+				<periodvarcalc type="string">dabriel</periodvarcalc>
+				<periods>
+					<period1>
+						<days type="number">45</days>
+						<name type="string">Or&#x00EB;</name>
+					</period1>
+					<period2>
+						<days type="number">45</days>
+						<name type="string">Kirmil</name>
+					</period2>
+					<period3>
+						<days type="number">45</days>
+						<name type="string">Hgiral</name>
+					</period3>
+					<period4>
+						<days type="number">45</days>
+						<name type="string">Saqu</name>
+					</period4>
+					<period5>
+						<days type="number">45</days>
+						<name type="string">Zenamji</name>
+					</period5>
+					<period6>
+						<days type="number">6</days>
+						<name type="string">Aventus</name>
+					</period6>
+					<period7>
+						<days type="number">45</days>
+						<name type="string">Bagnadel</name>
+					</period7>
+					<period8>
+						<days type="number">45</days>
+						<name type="string">Oszudaz</name>
+					</period8>
+					<period9>
+						<days type="number">45</days>
+						<name type="string">Ejisel</name>
+					</period9>
+					<period10>
+						<days type="number">45</days>
+						<name type="string">Nizog&#x00E9;</name>
+					</period10>
+					<period11>
+						<days type="number">45</days>
+						<name type="string">Shatagi</name>
+					</period11>
+					<period12>
+						<days type="number">45</days>
+						<name type="string">Geszuth</name>
+					</period12>
+				</periods>
+			</dabriel>
+		</base>
+	</calendar>
+</root>

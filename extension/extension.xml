@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root version="1.0">
+	<properties>
+		<name>Dabriel Calendar Supporting Functions</name>
+		<version>1.0</version>
+		<author>Paul Schifferer</author>
+		<ruleset>Any</ruleset>
+		<description>
+			Functions required for the Dabriel Calendar module.
+		</description>
+	</properties>
+	<base>
+	    <script name="DabrielCalendar" file="dabriel_calendar.lua" />
+	</base>
+</root>
